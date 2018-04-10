@@ -1,0 +1,6 @@
+[submodule "cozmo_driver"]
+	path = cozmo_driver
+	url = git@github.com:hyeonukbhin/cozmo_driver.git
+[submodule "visual-recognition-for-cozmo-with-tensorflow"]
+	path = visual-recognition-for-cozmo-with-tensorflow
+	url = git@github.com:hyeonukbhin/visual-recognition-for-cozmo-with-tensorflow.git
