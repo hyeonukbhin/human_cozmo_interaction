@@ -4,3 +4,15 @@
 [submodule "visual-recognition-for-cozmo-with-tensorflow"]
 	path = visual-recognition-for-cozmo-with-tensorflow
 	url = git@github.com:hyeonukbhin/visual-recognition-for-cozmo-with-tensorflow.git
+[submodule "darknet_ros"]
+	path = darknet_ros
+	url = git@github.com:hyeonukbhin/darknet_ros.git
+[submodule "darknet"]
+	path = darknet
+	url = git@github.com:hyeonukbhin/darknet.git
+[submodule "Yolo_mark"]
+	path = Yolo_mark
+	url = git@github.com:hyeonukbhin/Yolo_mark.git
+[submodule "stt"]
+	path = stt
+	url = git@github.com:hyeonukbhin/stt.git
